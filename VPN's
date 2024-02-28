@@ -1,0 +1,79 @@
+Using a VPN With Tor
+The question comes up semi-regularly: “Should I use a VPN to connect to Tor?” and “Should I use Tor to
+connect to a VPN?” and various combinations of Should I use Tor to VPN into a VPN to connect to Tor via
+VPN… with Tor.
+The developers at the Tor Project (whom I respect immensely and believe know what they’re talking about) have
+a unilateral policy for this to never use a VPN to connect to Tor. Here’s a snippet from a recent discussion on the
+tor-talk mailing list:
+...if somebody somehow breaks the anonymity of your Tor
+circuit, it's nice to have another layer behind that. But if somebody guesses that you're using a
+particular VPN, or you pick a VPN that they're already monitoring for other reasons, then you
+basically let them see the beginning of your circuit when otherwise they might not have been able
+to.
+Roger Dingledine Tor-talk
+In this he’s saying if you’re using a VPN to connect to Tor, you’re putting yourself at greater risk because the
+VPN service has a log of your information, your connection times, and the fact that you made a connection to
+Tor. This is supposed to be higher risk because if a nation state decided to perform passive monitoring, the place
+they would start is the VPNs. (He also compares this to having a consistent first hop guard node that everyone
+uses but I’ll leave that debate for another day.)
+He’s Right… Sometimes
+Dingledine’s logic is sound and if one were to have a policy to share with a community, it should be this one
+because it puts the least amount of risk on tor users. But, as with most things related to security, a unilateral
+policy is not always the best one. You need to know your threat model.
+The Case of the Harvard Bomber
+There is a now famous case of student at Harvard who had not finished studying for his finals and decided he
+wanted to email a bomb threat into the school to stop tests from happening. He went back to his dorm room,
+fired up Tor Browser, and sent an email from Guerrilla Mail to the school.
+In this case, tor protected his anonymity. The email could not be traced back through the Tor network and to his
+IP address. Tor did it’s job. His downfall was that he made the connect to Tor from his dorm room. The
+university admins simply went back and found all the tor connections at the time of the email, and found that it
+was a very small segment of students. The police went to each of those students and eventually found their man.
+What if the Harvard Bomber used a VPN to first connect into Tor? Would it have saved him? Maybe, or at least
+it would have made it more difficult. He would connect into the VPN service used by hundreds or thousands of
+other people, and then connect into the Tor Network. This might mean that even when they noticed the Tor
+traffic, they wouldn’t be able to attribute it to a specific student because there would be no log of them
+connecting to the Tor network. (That being said, Harvard could subpoena the VPN provider and try to determine
+which of the VPN users were from Harvard and which of them connected through Tor but I’m trying to make a
+point. :) )
+When to VPN > Tor
+Here’s when you might want to use a VPN to connect into Tor:
+Geographic fingerprinting: You are from a small village with not very many Tor users. If there was a
+suggestion that sketchy activity has happened, they would knock on your door first. Especially if your
+operation was geographically specific (like a bomb threat).
+Untrusted ISP: You know that your ISP is monitoring, logging, and sharing your connection information
+(hint: they are). You could make a choice to hide your connection details from your ISP and instead give
+that responsibility to your VPN service which you have more trust for.
+Plausible Deniability: You could rely on the fact that thousands of other people are using the VPN service
+at that same time so it’s difficult to correlate activities to an individual.
+Jurisdiction Diversity: It’s easy for most organizations to issue a subpoena to a company in their same
+company. It’s also easy for any of the 5, 9, or 14 Eyes to target services in their shared jurisdictions. If you
+have a VPN provider that is not in one of these jurisdictions, you can use them to make it harder to issue
+subpoenas to.
+When to Tor > VPN
+This is a bit more difficult to accomplish but possible. The issues here are you have to make sure you’ve
+purchased a VPN service anonymously, make sure that it allows connections via tor, and make sure it supports
+TCP as tor is a TCP-only protocol. The only scenario I can think of that you would need this is:
+Tor Blocked: Less of a security issue and more about usability, if a service blocks all tor exit nodes, you
+can try to use tor to hide you connection into a VPN service which is unlikely blocked.
+That being said, this is a really bad idea because when you have a consistent endpoint you connect to, it could
+have unknown consequences to your anonymity. This is the main reason that Tor switches circuits regularly
+instead of using the same circuit every time.
+When to VPN > Tor > VPN or Tor > Tor
+Now we’re getting nutty but we can think it through. You’ve made the choice to connect to tor via VPN, why not
+make another hop and just connect to another VPN service via Tor. Or, if you think 1x tor is pretty good, so 2x
+tor must be even better! Use cases:
+You’re nutty: Generally if you think there is an undisclosed vulnerability in tor, that is actively being
+used, but you still think that tor is the best option, you want to protect yourself by layering methods on top
+of tor.
+Whatever your rationality, know that this method has not been tested to see if it maintains your anonymity. There
+are so many edge cases of mis-configuration, fingerprinting attacks on the service, and plausible statistical
+attacks on your connection, you shouldn’t assume this makes any sense.
+Further Reading
+VPN’s are just one example of laying protections on top of tor. You could us private VPN hosted on a VPS, or
+SSH service, or if don’t understand any of this, a proxy. This debate comes up so regularly that lots of groups
+have posts and wiki pages about it. Check out the links below for additional information:
+https://trac.torproject.org/projects/tor/wiki/doc/TorPlusVPN
+https://lists.torproject.org/pipermail/tor-talk/2012-January/022916.html
+Posted by b3rn3d
+Tweet
+« The Worst That Could Happen: Substantiating Their Fears Mass Surveillance For The Masses »

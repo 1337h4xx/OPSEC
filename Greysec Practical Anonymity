@@ -1,0 +1,214 @@
+GreySec Forums › Security and Exploitation › Anonymity and Privacy › Practical Anonymity
+Pages (2): 1 2 Next »
+Thread Modes
+Practical Anonymity
+
+IPSEC 
+Junior Member
+**
+Posts:2
+Threads:1
+Joined:Sep 2016
+Reputation:1
+#109-24-2016, 08:08 PM
+It seems to me that a lot of people are overthinking anonymity (e.g. static entry guards vs. non-static entry guards). While most of the people who get arrested are just doing stupid shit. They don't know how to STFU and are not being sufficiently paranoid. To me, it seems that LEO does not perform a lot of very technical attacks to deanonymize people they just wait for one person to be an idiot. This person then snitches on everyone else and are used to track down everyone else in the group because they trust their co-conspirators too much (people will snitch on you they are not your friends).
+
+The most common mistakes I see when reading are
+
+1. Revealing too much information
+2. Being too egotistical and wanting to brag about stuff
+3. Isolating themselves and making their only friends being their criminal co-conspirators (these people cannot be trusted)
+4. Using only a VPN or something similar instead of routing all connections through TOR
+5. Being too greedy and attracting too much attention to themselves by stealing lots of money or running a huge criminal operation (e.g. silkroad) which leads to the feds going after them hardcore.
+6. Getting too attached to their projects like from silkroad why not after making 4-10 million USD in bitcoin why not just destroy all the evidence and move on. If Ulbrich had stashed away 4-5 million in bitcoins and destroyed silkroad before the feds tracked it down could he still be free today?
+7. Not planning ahead their operations - all illegal activities should be planned out 20 steps ahead or so. Always operating with the end game in mind.
+8. contaminating between personal life and criminal activity
+9. revealing their operational details and plans to others
+
+It seems that really the technology is less of the issue the issue is actually YOU the person who can't keep their fucking mouth shut and doesn't plan ahead. I don't think the technology is the issue really unless you are a terrorist or something.
+
+Are most people overthinking "anonymity"? What if instead of worrying most about tools and technology we focus more on just being smart, disciplined, and planning things out in advance and above all STFU?
+Reply
+
+Insider 
+Enemy of the state
+Administrators
+Posts:1,319
+Threads:364
+Joined:Jun 2015
+Reputation:58
+
+Staff
+#209-24-2016, 10:26 PM (This post was last modified: 09-24-2016, 10:27 PM by Insider.)
+Very good advice! Sometimes the simple mental state to achieve opsec is forgotten under all layers of technology. Good thread, I admit I've probably done many of these mistakes a lot in my lifetime. In the end the human ego takes over, who doesn't want recognition for their own work? Even if illegal haha.
+
+Really nice post, related to this if interested: http://www.b3rn3d.com/blog/2016/03/11/opsec-and-ego/
+Reply
+
+IPSEC 
+Junior Member
+**
+Posts:2
+Threads:1
+Joined:Sep 2016
+Reputation:1
+#309-25-2016, 11:39 AM (This post was last modified: 09-25-2016, 11:57 AM by IPSEC.)
+(09-24-2016, 10:26 PM)Insider Wrote: 
+Very good advice! Sometimes the simple mental state to achieve opsec is forgotten under all layers of technology. Good thread, I admit I've probably done many of these mistakes a lot in my lifetime. In the end the human ego takes over, who doesn't want recognition for their own work? Even if illegal haha.
+
+Really nice post, related to this if interested: http://www.b3rn3d.com/blog/2016/03/11/opsec-and-ego/
+
+Yes it is very hard you can only know how NOT to do things through research. People who know what they are doing will not reveal how they operate and even after much research and figuring things out on my own I cannot share these things with others because that is bad OPSEC. All I can say is that it takes a lot of work and research and say what you should not be doing.
+
+There is a constant trade off between OPSEC (security) and usability. Some OPSEC procedures go directly against human nature to seek validation or to be social. If you ignore natural human nature you do not have a practical solution so you do have to make tradeoffs.
+
+Of course anonymity is entirely relative you can be anonymous from LEO and the NSA can still find you, but you are a small fish and they just don't give a fuck.
+
+If you use the analogy of defending a computer network many people worry about nation state firmware level backdoors before fixing the command injection vulnerability in their shitty PHP web app (i.e. they worry about TOR being broken when they have really shitty OPSEC).
+
+Yeah NSA can deanonymize TOR no shit, but do they really give a fuck about you. Your not special, but don't worry I still love you Tongue
+
+Now what I would love others to find are cases where the operational procedures were solid, but the person still got busted
+
+All the evidence actually points in the opposite direction
+https://www.deepdotweb.com/jolly-rogers-...edophiles/
+Reply
+
+Vector 
+:[·APT·LIII·]:
+GS Devs
+Posts:671
+Threads:88
+Joined:Mar 2016
+Reputation:20
+#409-25-2016, 01:20 PM
+(09-25-2016, 11:39 AM)IPSEC Wrote: 
+(09-24-2016, 10:26 PM)Insider Wrote: 
+Very good advice! Sometimes the simple mental state to achieve opsec is forgotten under all layers of technology. Good thread, I admit I've probably done many of these mistakes a lot in my lifetime. In the end the human ego takes over, who doesn't want recognition for their own work? Even if illegal haha.
+
+Really nice post, related to this if interested: http://www.b3rn3d.com/blog/2016/03/11/opsec-and-ego/
+
+Yes it is very hard you can only know how NOT to do things through research. People who know what they are doing will not reveal how they operate and even after much research and figuring things out on my own I cannot share these things with others because that is bad OPSEC. All I can say is that it takes a lot of work and research and say what you should not be doing.
+
+There is a constant trade off between OPSEC (security) and usability. Some OPSEC procedures go directly against human nature to seek validation or to be social. If you ignore natural human nature you do not have a practical solution so you do have to make tradeoffs.
+
+Of course anonymity is entirely relative you can be anonymous from LEO and the NSA can still find you, but you are a small fish and they just don't give a fuck.
+
+If you use the analogy of defending a computer network many people worry about nation state firmware level backdoors before fixing the command injection vulnerability in their shitty PHP web app (i.e. they worry about TOR being broken when they have really shitty OPSEC).
+
+Yeah NSA can deanonymize TOR no shit, but do they really give a fuck about you. Your not special, but don't worry I still love you Tongue
+
+Now what I would love others to find are cases where the operational procedures were solid, but the person still got busted
+
+All the evidence actually points in the opposite direction
+https://www.deepdotweb.com/jolly-rogers-...edophiles/
+
+Interesting article. And good thread, good thing that i am not special either.
+Reply
+
+Insider 
+Enemy of the state
+Administrators
+Posts:1,319
+Threads:364
+Joined:Jun 2015
+Reputation:58
+
+Staff
+#512-06-2016, 02:34 AM
+I've decided to sticky this thread. An examplinary thread and a great future reference for many members.
+Reply
+
+arwenale 
+Junior Member
+**
+Posts:5
+Threads:1
+Joined:Jan 2017
+Reputation:0
+#602-14-2017, 06:11 PM
+good advices. i feel very concerned by many points.
+Reply
+
+overfl0wN 
+Ssssssssssmokin!!!
+***
+Posts:143
+Threads:26
+Joined:Jun 2015
+Reputation:8
+#702-15-2017, 11:21 PM
+Interesting reading, and the article linked offers a lot of causes for reflection:
+
+how could I trust a VPN service that claims a 'NO-LOG policy'? Since also tor can be unmasked, a trusted VPN after it isn't a bad idea. I revised my opinion about using tor over a vpn after reading a post of the grugq (I can't find it right now, soo tired, but this discussion on reddit explains it in in two words ). You're right when you say 'You're not special', but neither Yardbird thought  being special..
+ 
+The strictly rules they had inside the group and the extreme paranoid OPSEC really impressed me. I'm disgusted and fascinated at the same time, but Yardbir prove that you really can be untraceable, using the right tools and inflexible rules.
+Reply
+
+Kontu 
+Junior Member
+**
+Posts:20
+Threads:3
+Joined:Aug 2017
+Reputation:1
+#808-09-2017, 01:36 PM
+(02-15-2017, 11:21 PM)Overfl0wN Wrote: 
+Interesting reading, and the article linked offers a lot of causes for reflection:
+
+how could I trust a VPN service that claims a 'NO-LOG policy'? Since also tor can be unmasked, a trusted VPN after it isn't a bad idea. I revised my opinion about using tor over a vpn after reading a post of the grugq (I can't find it right now, soo tired, but this discussion on reddit explains it in in two words ). You're right when you say 'You're not special', but neither Yardbird thought  being special..
+ 
+The strictly rules they had inside the group and the extreme paranoid OPSEC really impressed me. I'm disgusted and fascinated at the same time, but Yardbir prove that you really can be untraceable, using the right tools and inflexible rules.
+
+I would currently reccomend using Mullvad VPN ( They'll also accept bitcoin )
+Reply
+
+QMark 
+Senior Member
+****
+Posts:309
+Threads:108
+Joined:Jan 2018
+Reputation:3
+#901-18-2018, 07:40 AM
+Question coming from someone who isn't yet learning hacking but learning networking so I want to ask.
+
+Obviously you wouldn't log into social media, email, etc. via Tor. I know about things like the Tor version of Facebook but my point is I think in order to be properly used for hacking, how do you safely route everything through Tor? Are people using it when accessing this forum?
+Reply
+
+enmafia2 
+Just doing my thing...
+Super Moderators
+Posts:388
+Threads:19
+Joined:Jun 2015
+Reputation:19
+
+Staff
+#1001-18-2018, 10:37 AM
+(01-18-2018, 07:40 AM)Fogbright Wrote: 
+Question coming from someone who isn't yet learning hacking but learning networking so I want to ask.
+
+Obviously you wouldn't log into social media, email, etc. via Tor. I know about things like the Tor version of Facebook but my point is I think in order to be properly used for hacking, how do you safely route everything through Tor? Are people using it when accessing this forum?
+
+If you want to route everything through Tor there are nice options. If you aren't aware there are distros in which everything passes through Tor.
+Some of them are Whonix or Tails. In the whonix wikis you can find a great comparisson between the alternatives:
+https://www.whonix.org/wiki/Comparison_with_Others
+
+If you want to have even more privacy you should check out this thread:
+https://greysec.net/showthread.php?tid=923
+
+It talks about VPNs, it stands for Virtual Private Network. They are used in countries where content is blocked, but people are using it more and more.
+It works by having servers (wherever you want) which work like a tunnel.
+If you want to compare the different VPNs there is a very famous site called That One Privacy Site:
+https://thatoneprivacysite.net/vpn-comparison-chart/
+It seems to have very good reputation and honest reviews.
+
+And finally if you need a very good threat model this might be a great read:
+https://greysec.net/showthread.php?tid=1443
+It is about VPNs and getting even more privacy.
+
+Think about your threat model, and then add as many layers of protection as you need.
+Good luck  Big Grin
+Reply
+« Next Oldest | Next Newest »

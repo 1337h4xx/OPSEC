@@ -1,0 +1,162 @@
+Written by the Paranoid’s Bible Team
+
+1. Compartmentalize yourself -- compartmentalization is the act of limiting access to information through a need-to-know basis (E.G: Keeping your accounts separated from each other and telling no one that doesn't need to know).
+
+2. Online life should be completely separate from offline life.
+
+3. Keep your profiles limited, set security and privacy settings as high as possible – less information out there, less information people can find.
+
+4. Always have an escape plan and a contingency plan – keep things short and quick, if your account is suddenly too popular too fast, find a way to remove it without anyone cataloging.
+
+5. Grab this dossier from here (https://pastebin.com/MRWPBWwE) and make two dossiers – one for the information you can remember, the other for information you’ve found.
+
+6. Self-dox by doing the following (Note: Self dox is not doxing yourself but finding your information and working to expunge it, never posting it for others to see).
+
+To find usernames: https://namechk.com/ | http://knowem.com/
+
+General information search sites:  https://www.spokeo.com/ |  https://www.pipl.com/ | https://www.linkedin.com/ | http://www.whitepages.com/ | 
+Social Networks to search:  https://www.twitter.com/ |  https://www.facebook.com/ | https://www.deviantart.com | https://www.tumblr.com/ | https://www.reddit.com/
+Image reversals: https://www.tineye.com/ | https://www.saucenao.com/ | https://www.photobucket.com/ | https://www.revimg.net/ | https://www.iqdb.org/
+Whois: https://www.networksolutions.com/whois/index.jsp
+Archives:  https://www.archive.is | https://www.archive.org/
+
+Besides the above, vanity-search hard – search on Google and Bing with the below search queries and add it to the dossier you’re making.
++Full name (First, Middle, Last and/or marks JR/SR/2nd/ 3rd…etc)
++First + last name
++First name
++Last name/home address
++Name combinations + birth-date
++Name combinations + home/street address
++Name combinations + school
++Name combinations + work
++ Name combinations + vote, voted or voting
++Street address
++Relatives names + name combinations
++Usernames + name combinations
++Usernames 
++E-mail addresses
++E-mail addresses + usernames
++Websites or accounts + usernames
++Websites or accounts + e-mail addresses
++Usernames + city or state
++Name combinations + city or state
++The above + IP addresses or ISP
++The above + known leak or dump searches (E.G: Have I Been PWNED)
+
+7. Look at what information you’ve found, compare each dossier to each other to see what you’ve missed and found.
+
+8. Never delete old email accounts, switch any accounts linked to them to another email address and let the email sit for a year. After a year, delete.
+
+9. Delete your information once you crosscheck the dossiers with each other and ensure you’ve found all your information (Remember: Don’t post any of this publicly, this is only for you to go through).-
+Remember the 1 month rule
+A. Wait a month before deleting an account.
+B. Within that month, hide and/or delete all comments that you can that aren’t yours.
+C. Modify and change everything that you can.
+D. Any editable text should be randomized (E.G: wodegnoi2n402)
+E. Images should be changed to a blank or solid color image.
+F. Videos should be changed to a solid color or static video.
+G. All CSS and HTML, that’s editable, should be wiped out.
+H. Change the e-mail address used to register the account with something else.
+I. Check your e-mail addresses against Have I Been PWNED to ensure nothing has been compromised.
+J. Repeat the above steps for each account and e-mail address to be deleted.
+
+10. Before deleting an account, check your accounts against the internet archive @ archive.org.
+
+11. If archives exist, send an email to info@archive.org and request you’d wish your archives would be removed for privacy reasons. To ensure they know you’re the account holder, take a screen cap while logged into your account(s). This is to show them you are the owner and have access to the account.
+
+12. Blur out your house on online maps.
+
+---For Bing:---
+*  https://www.bing.com/maps/ 
+*  Type home address
+*  Get to street view
+*  Center squarely on house
+*  Look for (?) question mark near bottom right. Be careful as it can be hidden sometimes.
+*  Click it
+*  Select "Report an image concern"
+*  You'll get a pop-up or new tab with a panoramic image
+*  Select your house, a little red square will appear then
+*  Voice your privacy concern, stating vandalism and potential break-ins by criminal elements.
+*  Fill out the rest of the form + Captcha, wait
+*  Save ticket (#) Number
+ 
+---For Google:---
+*  Go to Google Maps and type in your address
+*  Bring up the street view of your property
+*  Look to the bottom right hand corner of the screen you should see an Icon Labeled: “report a problem.”
+*  Click on “report a problem.”
+*  You will get a page labeled “report inappropriate street view.”
+*  Look for the words “Privacy Concerns” and click on them.
+*  If you want your house blurred, click on “my house.” Then choose the option: “I have a picture of my house and would like it blurred.”
+*  Adjust the image and show Google which part of the photo needs blurred.
+*  Type the verification code at the bottom of the page into the box provided and click submit.
+*  Check back in a few days to see if the image has been blurred.
+ 
+---For Yahoo: Special thanks to /r/n0esc from Reddit!---
+*  Visit https://www.Yahoo.com/maps 
+*  Drag the gray icon that resembles a person (top-right) to your street. (If it won’t drag, then your street has not been photographed for Yahoo.)
+*  Click on “report image” at the bottom-left of the screen. It will take you to a different website.
+*  Click on “request blurring,” and follow the directions.
+
+13. Opt-out of commonly used databases and people search engines.
+ 
+https://www.beenverified.com/f/optout/search
+• Go to opt-out link
+• Enter first & last name + state
+• Find your profile(s)
+• Click on the one you wish to remove
+• Follow instructions
+• Repeat for each individual in household
+ 
+https://www.familytreenow.com/optout
+• Follow instructions on the opt-out link
+ 
+https://www.intelius.com/optout
+•  Follow directions on page.
+ 
+https://www.locatefamily.com/contact.html 
+• Search for your name on the left side of the site.
+• You’ll find a page or pages containing Names, addresses and phone numbers.
+• Find yours; take note of the number next to it.
+• Go to the contact page.
+• Scroll down for the opt-out\removal form.
+• Follow the directions.
+• Make sure to provide the information you want deleted in the ‘Comments’ box.
+• Repeat for each individual in household.
+ 
+https://radaris.com/ 
+https://radaris.com/page/how-to-remove 
+• Search for a name.
+• On the search results page, select the name that is most appropriate.
+• On the profile page, click the down-arrow to the right of the name and select ‘Control Information’.
+• From the information control page, choose ‘Remove information’.
+• Here you can choose to remove all information, or to delete specific records.
+• Confirm your real name matches your account and profile name.
+• Enter your cellular phone to receive a verification code.
+• Once the code has been entered, the profile will be private.
+• Repeat for each individual in household.
+ 
+https://secure.whitepages.com
+https://secure.whitepages.com/suppression_requests
+• Find your information VIA search
+• click view free details
+• Copy the profile link to the second link
+• Click/select opt-out and remove me
+• Select your reason
+• Enter your phone number to confirm,
+ 
+https://www.Spokeo.com 
+https://www.spokeo.com/optout 
+• Go to Spokeo.
+• Search your First, middle and last name.
+• Find your profile/listing by go to the bottom of the page and select ‘open advance filter’.
+• Fill out your information.
+• Find your profile/listing, copy the link (note: Right click + copy link to have a ‘Clean link’ copied).
+• Go to the Opt out link.
+• Follow instructions to opt-out.
+• Repeat for each individual in house.
+• Hint: You’ll need a different e-mail address after so many removals.
+• Hint: You may have multiple profiles/links due to previous addresses.
+• Hint: Make sure HTTPs is not at the start of the link, if it is just remove the 'S'.
+
+The above is just the bare basics of the Paranoid’s Bible Anti-Dox Guide. For a better understanding, we do request that you visit the main guide at:  https://paranoidsbible.tumblr.com/post/160173700334/the-paranoids-bible-20

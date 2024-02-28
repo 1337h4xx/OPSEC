@@ -1,0 +1,113 @@
+Written on October 29th | 2015
+Published on October 29th | 2015
+
+Research purposes only
+
+=================================================
+
+DISCLAIMER
+The Paranoid's Bible and its writers hold no responsibility for the acts of others.
+
+The Paranoid’s Bible is for research and entertainment purposes only.
+
+=================================================
+
+Contents
+DISCLAIMER	2
+Preface	4
+What is OPSEC	5
+Simple Guidelines to Follow	6
+Afterword	8
+
+=================================================
+Preface
+
+About:
+People that have decided to combine their resources to create a repository of information.
+
+What does it stand for?
+Operations security (OPSEC)
+
+Why?
+To give people the tools to keep themselves safe and secure.
+
+=================================================
+
+What is OPSEC
+
+OPSEC is a term that, like many others used in cybersec, originated in the U.S. military. It originally meant whether or not a friendly’s actions could be observed by the enemy and if what they observed and the information obtained could be useful to them (the enemy), and then execute selected measures that eliminate and/or reduces the enemy’s possible exploitation of the critical information that they’ve obtained.
+
+OPSEC, though, is also about protecting minuscule pieces of information that, when grouped, could be used to form a bigger picture of things. Similar to removing and preventing “meta-data,” OPSEC is about taking several preventative measures to ensure no-one is listening, spying or simply happen upon information that you, yourself, carelessly given away.
+
+In the more modern use of the term, it now includes protecting information from not only unfriendly eyes, but also preventing industrial espionage, hackers, crackers, law enforcement, social engineering, and also mass surveillance catching or finding the aforementioned information.
+
+This is why many now state that if you’re not using the same protection and guidelines as criminals and terrorists to protect yourself and your information, then you’re doing it wrong.
+
+=================================================
+
+Simple Guidelines to Follow
+This chapter will, truthfully, be a simple set of rules and guidelines you should try to follow when acting both online and offline. To make this easier, we’ll include a list for offline OPSEC and a list for online OPSEC.
+
+We also won’t be dwelling into encryption or other similar items, as those will be discussed in other guides/PDFs.
+
+Online OPSEC
+1.	The less people know, the less you have to worry
+2.	Compartilization is key to safety and privacy
+3.	Be alert
+4.	Be cautious
+5.	Be aware of your surroundings
+6.	Be aware of the background 
+7.	Be aware of what you post at all times
+8.	All information is critical information
+9.	Never use the same e-mail address for an account
+10.	Never use the same username for an account
+11.	Never use the same password for an account
+12.	Never post detailed information (Real name, age, birth date, location, school, marital status…etc)
+13.	Avoid posting images of yourself and/or your location
+14.	Scrub any and all meta-data that you can (Pictures, PDFs…etc)
+15.	Don’t use social media/networking
+16.	Be cautious of anyone asking you anything personal (Detail information, sex, gender, sexual preferences…etc)
+17.	Transactions should never be discussed(recent purchases, taxes, bills…etc)
+18.	Don’t brag about any recent successes or accomplishments, especially concerning recent “operations” or “missions”
+19.	Avoid discussing your online life offline
+20.	Avoid discussing your offline life online
+21.	Avoid using certain words or catchphrases that you’re known for
+22.	Avoid clicking on links from strangers that you aren’t familiar with
+23.	Avoid clicking on links that have shortened with a link/URL shortener
+24.	Avoid playing MMOs and/or PVP styled games (can leak your IP)
+25.	Avoid using P2P services and programs (skype, chats, pirating, torrents…etc)
+26.	If in doubt, lie
+
+Offline OPSEC
+1.	The less people know, the less you have to worry
+2.	Compartilization is key to safety and privacy
+3.	Be alert
+4.	Be cautious
+5.	Be aware of your surroundings
+6.	Be aware of the background 
+7.	Be aware of what you post at all times
+8.	All information is critical information
+9.	Your desk and rig(s) should be several hallways and doors away from any and all entrances to and from the outside
+10.	Always ensure your devices, when not in use, are stored out of sight and aren’t easily found
+11.	Keep your rig elevated so you can reach it easily and quickly, just in case
+12.	Any and all mail and packages must be collected ASAP to ensure no theft can happen
+13.	Any and all documents and papers should be marked with a permanent black marker, shredded and mixed into garbage and waste
+14.	Credit cards, gift cards, pre-paid cards and similar items should not only be thoroughly cut and shredded, but also microwaved for five to ten seconds to ensure all chips and strips are destroyed
+15.	All important documents and papers should be organized, stored safely and locked within a vault or safe
+16.	Never discuss your home security
+17.	Never discuss your weapons
+18.	Never discuss your pets’ names
+19.	Never post detailed information (Real name, age, birth date, location, school, marital status…etc)
+20.	Be cautious of anyone asking you anything personal (Detail information, sex, gender, sexual preferences…etc)
+21.	Transactions should never be discussed(recent purchases, taxes, bills…etc)
+22.	Don’t brag about any recent successes or accomplishments, especially concerning recent “operations” or “missions”
+23.	Avoid discussing your online life offline
+24.	Avoid discussing your offline life online
+25.	Always make it seem as if someone is home
+26.	Always carry your wallet in your front pocket
+27.	Ensure you always unplug and locked up before leaving
+
+=================================================
+
+Afterword
+There’s so much to discuss when on the topic of OPSEC, however due to the nature of the Paranoid’s Bible and the literature it publishes… we’d only be rehashing what’ll be discussed and explained in other guides/PDFs. So as a way to touch upon OPSEC without rehashing several things from other guides/PDFs, we decided to give a quick bit of information that many amateur privacy enthusiasts need to know.

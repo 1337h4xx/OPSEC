@@ -1,0 +1,135 @@
+===Preventing  Stylometry===
+
+Non-profit and free for redistribution
+Written on September 6th | 2018
+Published on February 3rd | 2019
+
+For entertainment and research purposes only
+
+++++++++++++++++++++++++++++++++++++++
+
+===DISCLAIMER===
+The Paranoid's Bible and its writers hold no responsibility for the acts of others.
+
+The Paranoid’s Bible is for research and entertainment purposes only.
+
+++++++++++++++++++++++++++++++++++++++
+
+===Preface===
+
+Before  stylometry was weaponized by the ABCs it had a practical application of analyzing texts for authenticity, the identity of an another among other things. The basics were originally done by Wincenty Lutoslawski, a Polish philosopher who was known for using his method to build a chronology of Plato’s dialogues. Wincenty wouldn’t have dreamed of stylometry going as far as it has, especially with the development of computers and their near limitless potential when it comes to their capacities for analyzing large quantities of data.
+
+Computers, with their excellent capacity for analysis, have changed the game when it comes to profiling an individual and gather what information on them that you can find. This means that at any given moment, everything you say or do online will most positively be catalogued in some black-box server in the backroom of your ISP or at a data-center in Utah where the government can shift and read over at their leisure. You’re simply another bit of data put into a dossier and placed in yet another category the government has decided to use to classify you and many others.
+
+This doesn’t mean you should give up hope for any form of privacy, however you should be aware of what you may leak on your journeys through the internet. While our other guides helped you removed or masked your data, this guide will help you remove an entire focal point that many people use to identify an individual. So, please, take your time and read through this carefully.
+++++++++++++++++++++++++++++++++++++++
+
+===Why You Should be Worried===
+
+Everything we say and do is of our own style, regardless of what it is and how we do it. Everyone has their own style and tells which can be passed onto anything and everything they do, not just prose and art. Coding can actually even give way to who did what and when, especially when debugging symbols are removed and the usual binary obfuscation techniques are used. Anonymity can’t happen, even when all the usual steps are taken, if you don’t work on knocking down your stylometry points and marks.
+
+Artistic feats, coding, writing and even speech can tell a lot about a person, especially the more seasoned they are in their chosen profession and/or hobby. Everyone generates their own style in life when it comes to things, so it shouldn’t be too surprising that the more experienced someone is that it’s much easier to tell them apart from someone else. It’s because of this that anything encountered in the wild can be used by anyone (not just the government) to learn who made it. We can learn the individual’s stylistic fingerprint from things like how they use a word or punctuation mark to something like brush strokes or use of shading. This can be used when there’s a pool of candidates, and with some decent sleuthing, deduce who made whatever it is we’re looking at.
+
+There are also programs that exist to help this endeavor, and the government isn’t the only one with access to them. If you know where to look, and have some cash to spare, you can gain access to programs that can pinpoint an item’s creator to a frightening 90%+ accuracy. This is only solidified when more information is out there, on the internet, ready for anyone to access freely.
+
+Public availability and familiarity is the enemy of privacy and anonymity. We must learn to limit ourselves and control our impulses to further prevent the hemorrhaging of information. One way to do this is to expand our own working knowledge of any chosen subject or action we participate in.
+++++++++++++++++++++++++++++++++++++++
+
+===The Basics===
+
+> Brush up on your English spelling
+> Brush up on your English Grammar
+> Learn to spot the tells of others (over use of words, punctuation, emoticons/smilies, slang...etc)
+> Learn the slang and emoticons/smilies of other languages
+>Take a creative writing class or two (or get some literature on the subject)
+> Remember these stereotypes that people believe: 
+-Men are wordy and women use emoticons.
+-The younger a person, the more likely they'll use slang/chatspeak or make mistakes.
+-With some variations and examples you've seen, you'll be able to make adjustments to fit any persona/character.
+> Commit this rule to memory and practice it: For every post I do, I'll do three of fluff (useless info or static AKA meme posting or just random crap). Every week, depending on frequency of post, I'll try to remove at least two to five posts before I post more.
+> If it isn't of importance or is needed, don't post it or at the very least remove it ASAP.
+> Check into Anonymouth - https://github.com/psal/anonymouth (Note: Read the README as it contains the how-to for installation and use)
+++++++++++++++++++++++++++++++++++++++
+
+===Disguising the way you Type===
+
+Now the main thing here is to learn about your own writing style and its key attributes that identify you. This is usually done through comparing the frequency of words, punctuation marks, and identifiers (slang, sayings…etc). This is compared against a pool of data (AKA your posts and various actions online) that is accredited (supposedly) to you and only you. So going by this information we then must assume that there are steps to be taken to sanitize our prose. The most useful form of sanitation is a simple grasp of the English language. This means knowing proper spelling and grammar, and avoiding region specific spelling, among other things like the over use of slang, memes, and shorthand (Chat speak…etc).
+
+The above combined with the below should hopefully help you and many others prevent stylometry (especially when combined with Anonymouth).
+
+---Catting (AKA Being a Copy Cat): --- While many will be upset that we mention this tactic, it is one of the most common way to blend in or mask your own linguistic print. It relies heavily on knowing the basics of the English language an your ability to recognize patterns. It's a lot easier than what it sounds like, however we urge you to never use this tactic other than for private practice. You first begin by getting 10 to 20 samples of a person's postings online, usually varied from the oldest possible piece to miscellaneous examples to the latest. From there, you read and study the text you gained from your target. Now once you've read it several times and made note of how they use punctuation, capitalization, and any slang or common words (for them)... you can add and subtract until you have a paragraph that sounds exactly like something they'd say or do. Once you've repeated this a few times, try and make one on your own and see if it fits. Once you've got this down pat you can start down the tactics below, yet we must urge you never to do this tactic in public or use it as your main option as it puts other people and their information in jeopardy. We do not want other people in trouble in our stead, we simply use this tactic (in private/never posted online) to get familiar with how others copy and rip off the posting styles of others. It also allows us to get used to modifying our own prose.
+
+---Sampling: --- Similar to catting, sampling requires an individual to pick 5 to 10 targets instead of one and using their samples to construct a whole new writing style. It's quite simple and relies on you following the same procedure as catting. Once you finish with one sample you put it aside and repeat till you have all your samples put together. Once you've all your samples done, you start taking them apart and putting them together to create a new writing style. This style is so removed from your original samples that it won't be tracked back to anyone and ensures you've a totally new and semi-original writing style to use throughout your internet shenanigans.
+
+---Slav King: --- (Note this is similar to what Rao and Rohatgi 2000 suggested AKA round-trip machine translation) Taking the basics of the English language, you construct whatever you wish to say and then use a service like Google Translate and have it translated to another language. Once that is done, you translate it once more to another language and then back to English. With minor "fixes," you'll be able to create a style of posting that reads as if it was written by a non-native English speaker.
+
+---Aging (Up or Down): --- Surfing profiles for a specific age group and practicing sampling, an individual can feign not only their gender but also their age. This is a popular technique used by sexual predators to befriend and gain further information on a target, however if used correctly an individual can use this technique to mask their identity even further and help prevent people from guessing information correctly.
+
+---Subbing (Also known as embedding or culture-theft):--- This tactic is usually referred to as a “troll tactic” but is quite useful in actuality when it comes to disguising the way you type. The simplest explanation of what must be done is thus: You locate a forum, chat or site for a sub-culture or a hobby and simply lurk or “sit in” (E.G: Signing up and just reading/listening in on things). You get a basic grasp of slang and cultural sayings to the point of “fitting in” and being able to do so without being called out on it. You then use what you learn to simply create a new style of typing (that is similar to that of the sub-culture/hobby’s main core group) to be used elsewhere. Sort of like how people would use slang and common sayings to denote what group/fandom they’re a part of, like Train hobbyists or Punks. You can disguise yourself and how you type quite a bit by simply mimicking and borrowing from various groups.
+
+---The Cult (Also known as the group, the following or Legion):---
+Simply put a group of people, usually larger than two individuals, use one or more of the above tactics to form their own typing style. From there, they work on combing/meshing together these styles to form one typing style which they all then follow. This tactic was taken from the Chinese activists who’re constantly fighting their current government’s corruption. Due to how anti-privacy China has become, the activists developed this tactic to hide how many people are within a group posting online especially if it’s just one individual trying to create subterfuge to confuse anyone trying to track them down. One other variation of this tactic that we’ll bring up simply has everyone agreeing upon copying (catting) an individual from the group and posting in that style for anything concerning that group or its activities.
+
+===Note:=== Be aware of regional and cultural differences. This includes but is not limited to spelling, slang, sayings and similar items. Try to make a conscious effort to recognize these tells with not only the things you do or say but also what others do or say. This can help you expand your privacy and security, yet also make you realize just how much we, ourselves, can bleed out onto the internet.
+
+===Note 2:===: The above are just basic examples sent to us by our activist friends, you can find more tactics to contribute through heavy searching or by experimenting and coming up with your own.
+++++++++++++++++++++++++++++++++++++++
+
+===Combining what you’ve Learned===
+
+So, with everything you’ve learned above, and with some conscious effort on your part plus a bit of creativity you’ll be able to disguise yourself quite well online especially if combined with other skills that we’ve showed you on the PB’s guides.
+
+Now the first thing we must do is conduct our own bit of stylometry on ourselves. This can be done through either the use of your favorite word processor or through Anonymouth. We’ll discuss the basics below on how you can do a dirty-version of stylometry. We recommend doing it both through a word processor and then anonymouth just to cover your bases.
+
+Check this link before proceeding as it is required reading to understand the basics: http://peterkirby.com/basic-stylometry-101.html
+
+===Note:=== This is jumping the gun a bit however before we start constructing new typing styles, we need to learn some basics concerning Stylometry.
+
+---The Basics of Stylometry Summed up---
+-Pick a candidate (This will be yourself).
+-Pick a sample size (usually done in multiples of 500 words, ergo 1000; 1500; 2000…etc).
+-Pick a randomized variety of confirmed examples (Posts, comments from a confirmed source/target E.G: you).
+-Pick features/identifiers (Words, punctuation marks, slang, misspelled or improperly used words or marks…etc).
+-Learn how many times a feature (a word, punctuation mark, slang…etc) is used.
+-Calculate the mean by summing up your numbers (your features x how many times they appear in samples) and then divide by the number of samples.
+-Compare your newly formed typing style(s) by making a few test paragraphs and checking them against the above.
+- See which one is closest to your actual style VS the one that isn’t. Your main goal is to try and create one completely unique and least likely to be identified as being your own style.
+
+Now that you have a gist of how to identify, to an extent, your own identifiable markers—it’s time to check into Anonymouth. The reading material that comes with it should be enough to explain how to set it up and how to use it. Once you figured that out, use it in conjunction with the above basics. This will be a bit of an extra (hard) step but it’ll help you in the long run.
+
+First and foremost, you must think ahead. What is this new style for? Is it to run accounts, create prose, add an extra layer of protection or is it just to sprinkle more red herrings? Once you figure that out, you can use what you’ve learned from the other guides to build up a persona and personality that’ll be represented within your new typing style.
+
+Two, prepare what you plan to write. Think ahead and think carefully. Write it out in a word processor and then copy + paste it into something like a .txt file to remove traces and extra, frivolous additions like stylizations or fonts.
+
+Three, use sentence enhancers. These can be anything from simple quirks like using words incorrectly to Thesaurusitis or even regional spelling or slang. Below shall be a few examples. You can get an idea of what we mean, thus making up your own enhancers besides ours.
+
+3.a: Thesaurusitist:  Go to https://www.thesaurus.com/ or break out your own and look for a synonym to use. So instead of using murder, you can say annihilated (Example: Instead of “The communists murdered the wealthy” you can say they “annihilated the wealthy”). Switching words out like this can help create the illusion of pseudo-intellectualism or even actual intelligence. It all depends on how you hash it out. Have fun, go wild. You can end up creating a whole new series of marks/features/identifiers that’ll drive any CIA spook or government shill into confusion and depression.
+
+3.b: Regional Illusion: This one takes a bit of time and research, and is usually partnered with creating a text file with information but it is useful if you want to throw people off from where you’re from or trying to appear from. An example of a text file would be something like (word) + (Region) = (Description of use). With that in hand, you’ll be able to throw one or more items into the mix to screw around with regional associations or educated guesses on location. Some links below to get you started…
+https://www.rd.com/culture/regional-slang/
+https://en.wikipedia.org/wiki/American_English_regional_vocabulary
+https://www.thedailymeal.com/entertain/weirdest-regional-slang-america-slideshow
+
+
+3.c: Fuck You: Literally just adding swears/curses into the mix. Believe it or not quite a few people got caught by the ABCs because of their filthy mouths. Keep that in mind from now on ;^)
+
+3.e: The Queens English: Depending where you’re from or who you’ve talked to, you may notice how certain areas spell words differently in English. Keep this mind, especially if you’re trying throw people off about your continent of origin.
+
+3.f: Dropping Breadcrumbs: The purpose of this enhancer is to give up (false) personal details as if you’re unaware or too used to doing so, which is a big no-no if you’re trying to keep private. An example would be something like: “OMFG! I cant even right now!!1 Its already 1AM! >0.0<” Note the use of time and some enhancers like smilies and chatspeak. Something like the above, in the wild, will be contributed to either an immature person who’s young or female (or a part of certain sub-cultures).
+
+3.g: Weeb it up: Everyone has a past they wish to forget or know someone who has had such a past when it comes to anime and the stereotypical fan behavior, like the overuse of emoticons/smilies. Break that forbidden knowledge out of the safe because it can be useful for sprinkling on herrings.  Be it a replacement for actual punctuation or simply throwing it in midsentence or at end, they do help express what you mean and hide your age and gender. Check the below links for some examples you can save to a text file and use when the need comes up.
+https://fsymbols.com/emoticons/
+http://japaneseemoticons.me/
+
+3.h: Origin Unknown: Another decent enhancer is replacing the English equivalent of a word with a similar one from another language. The most common examples are using Japanese or Spanish words in place of the English one. Keep it simple and only use a few at a time. You can throw a lot of people off if you use proverbs or sayings from another language to try and convey something else like comparing situations (Think back to pseudo-intellectual who kept quoting Chinese proverbs after a trip there).
+
+Four, choose your tactic(s). One is good, two is better, three or more is best. The basic pattern is usually three to four tactics. Something akin to Catting > Sampling > (Third tactic) > Slav King. From there, checking your new sample against the basics + anonymouth, you should have a totally unique and totally new style for posting online. Keep a sample or two around to constantly check against your usually style + any new ones you create in order to prevent any cross contamination or back-checking.
+
+Now combine it all and produce your new posting style(s).
+
+That’s it, basically. It’ll be time consuming and requires a bit of practice but it’ll go far once you realize how hard it is for someone, especially a Glow in the Dark to track you down through text. Remember, a stylometrist used by the government will have more tools and toys than us or most anyone. Working on obscuring our marks/tells and styles with the above will, to an extent, help use randomize our posts. Doing this each and every time, keeping nothing uniformed unless working with false leads and red herrings… you should retain your anonymity at least through text.
+++++++++++++++++++++++++++++++++++++++
+
+===Afterword===
+
+While we’re borrowing heavily from our Chinese contacts, we were able to add some information contributed to us by our Venezuelan and American counterparts. We recommend you take what you’ve read above and work on making up your own tactics and enhancers. Share them with whoever you can and work on polluting as much information as possible to foil any wannabe stylometrist’s attempt at demasking people from anonymity. Privacy isn’t a one and done thing. It requires a lot of patience, time and research. So, take what you can glean from the above and try to find something that’ll work for you.

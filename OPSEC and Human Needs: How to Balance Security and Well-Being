@@ -1,0 +1,118 @@
+Let your plans be dark and impenetrable as night, and when you
+move, fall like a thunderbolt.
+RSS
+Search
+Navigate…
+Blog
+Archives
+Contact
+Growing a Flower in the Dark
+I like to use the metaphor of growing a flower to discuss the issues of OPSEC. It works on a couple of levels and
+I hope it can help delver my points. You can’t use the same tools to grow a flower in the dark that you might
+normally: sunlight, access to water, fertilizer. You are human. You have needs. You need to eat, you need to
+sleep, you need to have a reason to do things that you do. Like the flower in the dark, our OPSEC may restrict
+our ability to feed our human needs.
+Psychological human needs often get in the way of your operation.
+Loneliness
+Self worth
+Motivation
+The first step is recognizing that these are real, useful needs, and they should not be denied. Next we should
+figure out how to feed them. There are really two ways of looking at the situation to help you deal with them:
+Plan to ensure these feelings never happen or plan how to deal with these feelings when they happen.
+I’ll discuss some of the issues as well as some recommendations but as you’ll see, my recommendations are in
+direct contrast to a good OPSEC plan. The first concession you need to make is that feeding these needs may
+negatively impact your OPSEC policy, but not feeding these needs could have much more serious consequences.
+The Drought of Loneliness
+Depending on your OPSEC and operation, you are lonely. You sit in your cheap flat, with your secure computer,
+and nobody knows that you exist.
+Let me feed my ego a little bit and disclose an anecdote. I’ve spent weeks in locations not being able to
+communicate with anyone. If I am able to communicate, it is high latency and multiple days before a response.
+The lonleiness creeps in and as any tech savvy person in this decade does, they reach online for contact. A chat
+on IRC, darknet forums, whatever.
+For me, the loneliness breeds different feelings; depression, laziness as well as a myopic focus on the task at
+hand. When you have nothing else to do, you go to work. Take care of the operation. Plan, review, and plan
+some more. There’s nothing else to do.
+If your operation takes up a lot of your time, that’s a good way of keeping your mind busy but if your plans have
+lots of periods of inactivity, and you must wait for things before you can continue; you can’t be constantly
+watering your dark flower. This is when the lonliness creeps in and its best to recognize that this will happen and
+think of ways of fixing it.
+Here are some suggestions that work for me and hopefully you:
+Meet people in an agnostic setting such as a book club, pub, or sporting event. Be weary of topics and
+information that are discussed but if you need human interaction, this is a good way of doing it.
+Find an out-of-band low latency communication network. Connect to IRC or Twitter from an Internet
+cafe. Ensure you’ve compartmentalized everything properly and you’re not using the same network
+connection as your main operation, but if you need to talk to someone.
+Make a friend. Yes this sounds simple or scary depending on the person but meeting a friend or partner
+you can confide in helps a lot. They might not be able to come over and visit you and you might seem like
+you’re a very private person to them, but sometimes having a short conversation about the weather is all
+you need to remind you that you’re connected to the rest of the world.
+Attend a public event. I’ve found that even if I’m not interacting with people, being a fly on the wall at a
+very large event makes me feel less lonely. Even a bit of eye contact helps make you feel better.
+Phone hotlines. I’ll be honest, I’ve never done this but a friend suggested it and swears by it. They
+suggested a suicide hotline but I feel that’s a bit crazy especially as these services are designed to track
+your location. Phone sex services are usually expensive too. If you can find some kind of free hotline
+service that lets you use your burner phone, maybe this is something for you.
+The Sunlight of Self Worth
+We know that your ego can get in the way of your OPSEC and all you can do is recognize that, be as disciplined
+as possible, compensate for what’s missing, and continue on. Your self worth is an inner conversation that
+defines you as a person. What are you good at? What are your best traits? Do you have a place in the world
+where you can deliver these skills?
+You’ve likely met someone that has an inflated sense of self worth. They’re pompous about every thing they do
+and they aren’t afraid of sharing it. Understand that these people are trying to feed their self worth and the more
+obnoxious they seem, the more starving they are for external validation.
+You may not be one of these people now but as your flower tries to grow in the shade, it will miss the warmth of
+the sun. You can’t just show off your operations in the light of the day or on a clearnet site. You can’t post on
+Reddit and read through the comments]to see if people like you.
+Maybe you can. But let me say that in my experience, if you start questioning the value of your operation or
+your own personal self worth, you will start making concessions about what you’re willing to do or share to try
+and feed it. You’ll start thinking about chatting about it on IRC or Twitter and looking for something.
+Understand that searching for external validation is normal but make sure you stay vigilant about your OPSEC.
+It’s hard to provide generalized recommendations for you. This is a question about your own personal feelings,
+motivation, and operation. Here’s again, IMHO, some things you can try:
+Make a blog! A bit tongue-in-cheek but if I’m honest, the entire purpose of this blog is to help me stay
+vigilant with my operations. The positive feedback is what keeps this going and at least makes me feel like
+I’m useful. I am in fact at this moment, attempting to feed my self worth. :)
+Meet like-minded peers. The term “community” is often nothing more than a circle of like-minded people
+aimed at validating each others' sense of worth. Join a community. Find people that do what you do and
+make some responsible disclosures while maintaining your pseudonymity.
+Share your results with the world. If you have an operation with an output that could improve the world,
+share it. Watch how good it feels to see that other people appreciate the effort you’ve put in.
+Be honest about your operation and if you really have come to the conclusion that it’s not worth your
+effort, shut it down. Do so in a controlled way.
+Feeding Your Motivation
+Don’t underestimate the need for motivation. At the beginning of your operation you will be very motivated.
+You’ll have goals and aspirations and you’ll be truly excited to accomplish your tasks. Without proper
+maintenance, these feelings fade.
+In the best case, the result is that the operation expires. You don’t continue. It atrophies and you let it die but
+there are no real risks in you doing this. Some operations aren’t as lucky. If you don’t maintain the operation or
+shut it down cleanly, you put yourself at risk. What happens if someone finds out your ran the operation years
+later? Is there anything that might identify you?
+Motivation is what feeds your dark flower. Without enough motivation, you will simply not grow, become stale,
+and eventually wilt away. How can we stay motivated:
+Start an operation, and write down exactly why you are doing this in the most detail possible. Yes this is a
+risky proposition but if you can keep it secure, it can serve as an affirmation on the days when you’re
+questioning whether you should be doing what you do.
+If your operation is related to some moral or ethical motivation, review the reasons you chose to do this.
+Read articles and papers about what made you want to do this in the first place. If you’re a hactivist,
+remind yourself of the bad things and why you’re trying to be on the good side.
+Limit outside influence. In contrast to the last suggestion, don’t read anything. Don’t let articles,
+comments, or TV shows suck out your motivation.
+If you think all of these suggestions and discussion does not apply to you, let us at least agree that our physical
+and psychological needs are paramount. If you’ve spent hours on securing your laptop, network connection, and
+built an OPSEC policy, spend a few hours thinking about the meat bag that’s actually running your operation. I
+hope that this serves as a reminder to not only plan for the technical details, but also find ways to grow your
+flower in the dark.
+Posted by b3rn3d
+« Mass Surveillance For The Masses The Internet Of Threats »
+Recent Posts
+The Internet of Threats
+Growing a Flower in the Dark
+Mass Surveillance for the Masses
+Using a VPN With Tor
+The Worst That Could Happen: Substantiating Their Fears
+OPSEC of Actor vs Drug Dealer
+Dark Shipping: A Case Study
+Website Fingerprinting Attacks and Defense
+How to Ship Drugs to Your House
+Tor Browser vs Your Browser
+Copyright © 2016 - b3rn3d 
